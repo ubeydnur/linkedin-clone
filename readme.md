@@ -1,3 +1,3 @@
 # linkedin-clone
-Simple HTML linkedin clone made with Bootstrap. 
-![gif](readme.gif)
+Simple HTML linkedin clone made with Bootstrap.
+![img](readme.gif)
